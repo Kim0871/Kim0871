@@ -1,5 +1,6 @@
 ## Hi, welcome on my profile ! 👋
 
+🔎 Searching for 5-month Internship in Data (November 2026 - March 2027)
 🎓 Computer Science student specializing in Data Engineering  
 🚀 Currently working on my portfolio website, a hub for my personal interests
 
