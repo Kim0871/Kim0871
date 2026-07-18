@@ -16,14 +16,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact" alt="Top Langs" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871" alt="kim_stats" />
-</p>
-
 ## 💻 Tech Stack
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
@@ -47,3 +39,11 @@
 
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)](#)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact" alt="Top Langs" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871" alt="kim_stats" />
+</p>
