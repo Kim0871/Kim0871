@@ -6,11 +6,13 @@
 ## 📫 Contact
 
 <p align="left">
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:t.kimlan0871@gmail.com)
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kim-lan-tran)
-
+  <a href="mailto:t.kimlan0871@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kim-lan-tran" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </p>
 
 ## 💻 Tech Stack
