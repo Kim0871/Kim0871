@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim0871&show_icons=true&locale=en" alt="kim0871" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim0871" /></p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
