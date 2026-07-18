@@ -6,37 +6,37 @@
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:t.kimlan0871@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kim-lan-tran" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:t.kimlan0871@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kim-lan-tran)
+
 </p>
 
 ## 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
+[![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
 
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42B883?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42B883)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)
+[![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
+[![Scikit Learn Badge](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+[![VS Code Badge](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)](#)
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim_stats" /></p>
