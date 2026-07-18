@@ -41,4 +41,5 @@
 
 ---
 
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kim0871&hide=stars,prs,issues)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim_stats" /></p>
