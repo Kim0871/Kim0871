@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi, I'm Kim Lan ! 👋
 
----
+🎓 Computer Science student at EFREI Paris, specializing in Data Engineering
+🚀 Currently working on portfolio website (hub for personal interests)
 
 ## 📫 Contact
 
