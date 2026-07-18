@@ -14,8 +14,11 @@
   </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim0871&show_icons=true&locale=en&layout=compact" alt="stats" />
+---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim_stats" /></p>
+
+---
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
