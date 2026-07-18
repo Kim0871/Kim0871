@@ -1,12 +1,18 @@
-## Hi, I'm Kim Lan ! 👋
+## Hi, I'm Kim ! 👋
 
-🎓 Computer Science student specializing in Data Engineering 
-🚀 Currently working on my portfolio website, a hub for my projects and personal interests  
+🎓 Computer Science student at EFREI Paris, specializing in Data & Artificial Intelligence.  
+🚀 Currently working on my portfolio website, a hub for my projects and personal interests.
 
-📫 How to reach me:
-<a href="mailto:t.kimlan0871@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kim-lan-tran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## 📫 Contact
 
+<p align="left">
+  <a href="mailto:t.kimlan0871@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kim-lan-tran" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ## 💻 Languages
 
 <div align="center">
