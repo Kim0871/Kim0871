@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannickhan&show_icons=true&locale=en&layout=compact" alt="yannickhan" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim0871&show_icons=true&locale=en&layout=compact" alt="stats" />
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
