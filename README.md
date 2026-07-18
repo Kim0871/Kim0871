@@ -16,12 +16,13 @@
   </a>
 </p>
 
+---
+
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact" alt="Top Langs" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871" alt="kim_stats" />
 </p>
-
 
 ## 💻 Tech Stack
 
