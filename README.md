@@ -1,4 +1,4 @@
-## Hi, I'm Kim ! 👋
+## Hi, welcome on my profile ! 👋
 
 🎓 Computer Science student specializing in Data Engineering  
 🚀 Currently working on my portfolio website, a hub for my personal interests
