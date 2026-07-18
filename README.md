@@ -1,7 +1,7 @@
 ## Hi, I'm Kim ! 👋
 
 🎓 Computer Science student specializing in Data Engineering  
-🚀 Currently working on my portfolio website, a hub for my projects and personal interests
+🚀 Currently working on my portfolio website, a hub for my personal interests
 
 ## 📫 Contact
 
