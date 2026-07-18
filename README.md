@@ -14,7 +14,9 @@
   </a>
 </p>
 
-#### 💻 Languages
+---
+
+### 💻 Languages
 
 Programming Fundamentals • Object-Oriented Programming • Algorithms
 
@@ -24,7 +26,7 @@ Programming Fundamentals • Object-Oriented Programming • Algorithms
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35" alt="C"/>
 </div>
 
-## 📊 Data Science
+### 📊 Data Science
 
 Machine Learning • Data Manipulation • Data Analysis • SQL
 
@@ -35,7 +37,7 @@ Machine Learning • Data Manipulation • Data Analysis • SQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
 </div>
 
-#### 🌐 Web Development
+### 🌐 Web Development
 
 Frontend Development • Responsive Design • User Interfaces
 
@@ -47,7 +49,7 @@ Frontend Development • Responsive Design • User Interfaces
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/>
 </div>
 
-#### 🛠️ Tools
+### 🛠️ Tools
 
 Version Control • Development Environment
 
