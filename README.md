@@ -1,7 +1,7 @@
 ## Hi, I'm Kim ! 👋
 
-🎓 Computer Science student at EFREI Paris, specializing in Data & Artificial Intelligence.  
-🚀 Currently working on my portfolio website, a hub for my projects and personal interests.
+🎓 Computer Science student specializing in Data Engineering
+🚀 Currently working on my portfolio website, a hub for my projects and personal interests
 
 ## 📫 Contact
 
