@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim0871&show_icons=true&locale=en" alt="kim0871" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim0871" /></p>
 
 <div style="display: inline_block"><br>
