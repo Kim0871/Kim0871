@@ -41,6 +41,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=PraneshJs)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871&" alt="kim_stats" /></p>
+<p align="left">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact" alt="Top Langs" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kim0871" alt="kim_stats" />
+</p>
