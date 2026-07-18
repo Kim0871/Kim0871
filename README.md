@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 
-<p align="center">
+<p align="left">
   <a href="mailto:t.kimlan0871@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335" />
   </a>
