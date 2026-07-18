@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kim0871&label=Profile%20views&color=0e75b6&style=flat" alt="yannickhan" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannickhan&show_icons=true&locale=en&layout=compact" alt="yannickhan" /></p>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
